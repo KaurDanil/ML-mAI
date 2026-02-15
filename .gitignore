@@ -1,0 +1,22 @@
+*.csv
+
+# Зависимости
+node_modules/
+vendor/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.cache
+
+# Файлы окружения
+.env
+.env.local
+
+# Папки сборки
+dist/
+build/
